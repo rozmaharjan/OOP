@@ -29,9 +29,10 @@ class StudentDetailsParsing{
                 "percentage= "+percentage1);
     }
 }
+//Write a program to calculate sum of four numbers taking user input.
 class SumOfFourNumbersParsing{
     public static void main(String[] args){
-        //Write a program to calculate sum of four numbers taking user input.
+
         Scanner scanner= new Scanner(System.in);
 
         System.out.println("Enter the first number: ");
