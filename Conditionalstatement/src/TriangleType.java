@@ -16,11 +16,11 @@ public class TriangleType {
 
         if(side1 == side2 && side2 == side3)
         {
-            System.out.println("It is an Equilateral Triangle");
+            System.out.println("It is an Isosceles Triangle");
         }
         else if(side1 == side2 || side2 == side3 || side1 == side3)
         {
-            System.out.println("It is an Isosceles Triangle");
+            System.out.println("It is an Equilateral Triangle");
         }
         else
         {

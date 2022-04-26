@@ -8,7 +8,6 @@ public class ProfitLoss {
         double CP=sc.nextDouble();
         System.out.println("Total Selling price:");
         double SP=sc.nextDouble();
-
         if(CP-SP>0)
         {
             System.out.println("loss:" +(CP-SP));
